@@ -1,0 +1,46 @@
+#header {
+    background-color: #0d9990;
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: left;
+    margin-top: 20px;
+}
+
+.button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #0d9990;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #0d9990;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 20px;
+}
+/* Estilo para centrar texto */
+.center-text {
+    text-align: center;
+}
+.contenido {
+    max-height: 800px;
+        }
